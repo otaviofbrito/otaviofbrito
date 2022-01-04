@@ -3,7 +3,7 @@
 
 
 
-![gif](https://i.gifer.com/VIR.gif)
+![gif](https://github.com/otaviofbrito/socialTree/blob/main/public/images/VIR.gif?raw=true)
 
 ## Connect with me
 
