@@ -31,7 +31,6 @@
 <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaviofbrito&show_icons=true&theme=tokyonight&title_color=964af8&text_color=ffffff&bg_color=621BBF&hide_border=true&locale=en&layout=compact" alt="otaviofbrito" /></p>
 
 ---
 
