@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img width="300" heigh="300"src="https://github.com/otaviofbrito/socialTree/blob/main/public/images/VIR.gif?raw=true" /></p>
+<img width="300" heigh="300"src="https://github.com/otaviofbrito/socialTree/blob/main/public/images/saturn.gif?raw=true" /></p>
 
   
 <h2 align="center">Connect with me</h2> 
