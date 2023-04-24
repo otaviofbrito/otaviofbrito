@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Discord-Otavio%234887-%2396ABAF9?style=for-the-badge&logo=discord&?&logoColor=white"></img>
 
 
-<a href="http://otaviobrito.me" target="blank" />otaviobrito.me</a></font>
+<a href="http://otaviobrito.me" target="_blank" />otaviobrito.me</a></font>
 ---
 
 
