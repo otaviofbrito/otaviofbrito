@@ -2,9 +2,10 @@
 <h3 align="center">Computer science student</h3>
 
 
-<p align="center">
+
 <img align="right" width="300" heigh="300"src="https://github.com/otaviofbrito/otaviofbrito/blob/master/walkingman.gif" /></p>
 
+<p align="center">
   
 <h2 align="center">Connect with me</h2> 
 
