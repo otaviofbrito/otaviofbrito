@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width="300" heigh="300"src="https://github.com/otaviofbrito/otaviofbrito/blob/master/walkingman.gif" />
+<img align="right" width="300" heigh="300" src="https://github.com/otaviofbrito/otaviofbrito/blob/master/walkingman.gif">
 
   
 <h2 align="center">Connect with me</h2> 
