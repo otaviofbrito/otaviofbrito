@@ -10,12 +10,12 @@
 
 
   
-<p align="center"><a href="https://github.com/otaviofbrito" target="_blank"><img height="32" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" /></a>
+<p align="left"><a href="https://github.com/otaviofbrito" target="_blank"><img height="32" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" /></a>
 <a href="https://www.youtube.com/channel/UC4el8sPDQzY6IRfm_46J3Mw" target="_blank"><img height="32" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" /></a>
 <a href="https://www.linkedin.com/in/otavio-brito-3b0139224/" target="_blank"><img height="32" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a></p>
   
 
-<p align="center"><img src="https://img.shields.io/badge/Discord-Otavio%234887-%23964AF8?style=for-the-badge&logo=discord&?&logoColor=white"></img></p>
+<p align="left"><img src="https://img.shields.io/badge/Discord-Otavio%234887-%23964AF8?style=for-the-badge&logo=discord&?&logoColor=white"></img></p>
 
 
 ---
