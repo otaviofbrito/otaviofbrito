@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Otavio Brito</h1>
+<h1 align="center">Hi 🧑🏻‍💻, I'm Otavio Brito</h1>
 <h3 align="center">Computer science student</h3>
 
 
@@ -13,8 +13,9 @@
 
 <a href="https://www.linkedin.com/in/otavio-brito-3b0139224/" target="_blank"><img height="32" width="32" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" /></a>
 <img src="https://img.shields.io/badge/Discord-Otavio%234887-%2396ABAF9?style=for-the-badge&logo=discord&?&logoColor=white"></img>
-</p>
-  
+
+
+<a href="http://otaviobrito.me" target="blank" />otaviobrito.me</a></font>
 ---
 
 
