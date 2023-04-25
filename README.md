@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🧑🏻‍💻, I'm Otavio Brito</h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Computer Science student</h3>
 
 
 
